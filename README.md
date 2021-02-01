@@ -4,7 +4,7 @@ Doing Daily UI 100 days / Day 2
 
 ## Notes
 
-Found out that people just use Figma to design and don't do front-end.... Weird.
+Found out that people just use Figma to design and don't do frontend for this challenge.... Weird.
 
 Maybe taking a detour to learn Figma and for planning does something good for me. 1.5hr later..
 
